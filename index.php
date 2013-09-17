@@ -1,8 +1,9 @@
+<!DOCTYPE>
 <html>
 <head>
 
 <title> Welcome to letshangout </title>
-<link href="style.css" rel="stylesheet" type="text/css"/>
+<link href="style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 	<div id ="container">
