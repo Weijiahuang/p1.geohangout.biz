@@ -18,7 +18,7 @@
         <br>
 Weijia (Xavier) Huang is an entrepreneur from Hainan, China. He owns and operates several businesses in China, including a shopping mall and a real estate company. Xavier graduated from B.U. school of entrepreneurial management, and is not studying at Harvard Extension School. Xavier plans to attend business school and expand his businesses between China and the U.S. 
 
-   	<div id ="footer"> This is the footer</div>
+   	<div id ="footer"> The code editor I was using is gedit</div>
    	</div>
 </body>
 </html>
